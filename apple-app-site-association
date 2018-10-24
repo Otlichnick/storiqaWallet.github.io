@@ -1,13 +1,12 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "HS8AM3WUSX.com.storiqa.mobilewallet",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": {
+            "HS8AM3WUSX.com.storiqa.mobilewallet": {
+                "paths": [
+                    "*"
+                ]
+            }
+        }
+    }
 }
