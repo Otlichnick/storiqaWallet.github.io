@@ -3,7 +3,7 @@
         "apps": [],
         "details": {
             "HS8AM3WUSX.com.storiqa.mobilewallet": {
-                "paths": [ "*", "/" ]
+                "paths": [ "*"]
             }
         }
     }
